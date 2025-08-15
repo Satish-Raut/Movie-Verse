@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  background-color: #D65A31; 
+  margin: 0;
+  font-family: sans-serif;
+}
+
+@keyframes bounceSlow {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+.bounce-slow {
+  animation: bounceSlow 2s infinite ease-in-out;
+}
+
