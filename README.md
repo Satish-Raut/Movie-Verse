@@ -1,6 +1,10 @@
 
 # React Router Learning & Movies App Project
 
+## 🚀 Live Demo
+
+View the deployed project here: [moviepath.netlify.app](https://moviepath.netlify.app)
+
 ## 1. About the Learning in this Folder
 
 In this folder, I started learning the `React Router` library. The focus was on understanding how to implement client-side routing in React applications, including:
